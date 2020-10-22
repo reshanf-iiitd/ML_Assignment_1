@@ -1,1 +1,7 @@
-College Assignment
+College Assignment  
+Visuliazing the data set  
+Implement t-SNE to reduce the data set to 2D and 3D
+Grid search to find the optimal hyperparameter
+User defined accuracy function similar to sklearn 
+split the data without using sklearn
+Creating 100 different decision stumps (Ensembles)

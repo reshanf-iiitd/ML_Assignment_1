@@ -1,6 +1,6 @@
 College Assignment  
 Visuliazing the data set  
-Implement t-SNE to reduce the data set to 2D and 3D
+Implement t-SNE to reduce dimension of the data set to 2D and 3D
 Grid search to find the optimal hyperparameter
 User defined accuracy function similar to sklearn 
 split the data without using sklearn
